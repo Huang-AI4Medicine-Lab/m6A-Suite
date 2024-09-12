@@ -18,8 +18,8 @@ The rapid advances in m6A and cancer research present several unmet informatics 
 3. **Establishment of m6A-KB:** Develop a comprehensive and queriable knowledge base that catalogs m6A modifications and their predicted functions across a vast array of public MeRIP-seq and nanopore data in diverse cancer and normal conditions.
 
 ## Key Components:
-- **m6A Degradation Tool:** Our m6A degradation tool provides a critical function by predicting the degradation rate of mRNA based on m6A modifications. This tool helps in understanding the stability and life cycle of mRNA in various cellular conditions. [Explore m6A Degradation Tool][(link1)](https://github.com/Huang-AI4Medicine-Lab/m6A-BERT-Deg)
-- **m6A Knowledge Graph:** The m6A Knowledge Graph is a visual representation that links m6A sites to their potential regulatory functions and interactions. This graph is an essential resource for researchers looking to understand the complex dynamics of m6A in cancer. [Visit m6A Knowledge Graph][(link2)](https://github.com/Huang-AI4Medicine-Lab/reguloGPT)
+- **m6A Degradation Tool:** Our m6A degradation tool provides a critical function by predicting the degradation rate of mRNA based on m6A modifications. This tool helps in understanding the stability and life cycle of mRNA in various cellular conditions. [(Explore m6A Degradation Tool)](https://github.com/Huang-AI4Medicine-Lab/m6A-BERT-Deg)
+- **m6A Knowledge Graph:** The m6A Knowledge Graph is a visual representation that links m6A sites to their potential regulatory functions and interactions. This graph is an essential resource for researchers looking to understand the complex dynamics of m6A in cancer. [(Visit m6A Knowledge Graph](https://github.com/Huang-AI4Medicine-Lab/reguloGPT)
 
 ## Collaborations and Impact:
 We will evaluate and refine these tools through systematic testing and collaborations both within and outside the ITCR consortium. The m6A-Suite tools and data will be made freely available to the research community to facilitate further research and development in the field. We are committed to continuously improving these tools based on feedback from collaborators and users.
